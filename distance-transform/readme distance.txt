@@ -1,0 +1,1 @@
+By default, the input is horse.jpg, which is included in the folder.

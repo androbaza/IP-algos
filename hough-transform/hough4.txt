@@ -1,0 +1,1 @@
+By default, the input image is cameraman.tif, which is included in the MATLAB software. The inputted image is then given to sobelf.m function to receive matrices of magnitude and direction of edges. The output is Hough transform of the image and is shown in a figure in MATLAB.
