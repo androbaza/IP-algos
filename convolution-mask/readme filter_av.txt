@@ -1,1 +1,0 @@
-By default, the input image is cameraman.tif, which is included in the MATLAB software. After running the script, choose scale of the filter you want to use: 3, 5 or 7. Input desired scale and press Return. The output will be given in two figures, original and filtered.

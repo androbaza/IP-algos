@@ -1,0 +1,1 @@
+By default, the input is separate.jpg, which is included in the folder.

@@ -1,1 +1,0 @@
-By default, the input is cat120.jpg, which is included in the folder. Scaling factor is asked from user upon program start.
